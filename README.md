@@ -1,6 +1,6 @@
-### Oi! Eu sou a Mônica Reis 👋
+### Oi! Eu sou a Mônica Reis
 
-**Programming Languages**
+**Desenvolvedora Back-End Java Junior**
 
 <img alt="JAVA" title="Java" width="60px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
