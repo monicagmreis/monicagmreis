@@ -2,8 +2,7 @@
 
 **Programming Languages**
 
-<img alt="JAVA" title="Java" width="40px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|
+<img alt="JAVA" title="Java" width="60px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 <!--
 **monicagmreis/monicagmreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
