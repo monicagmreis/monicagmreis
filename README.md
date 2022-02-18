@@ -1,6 +1,6 @@
 # Oi! Eu sou a Mônica Reis
 
-**Desenvolvedora Back-End Java Junior ♦ Focada na Transição de Carreira**
+**Desenvolvedora Back-End Java ♦ Focada na Transição de Carreira**
 
 <img alt="JAVA" title="Java" width="60px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
